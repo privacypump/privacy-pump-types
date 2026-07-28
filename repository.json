@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-types",
+  "description": "Canonical Rust, TypeScript, and schema definitions for Privacy Pump protocol messages.",
+  "maturity": "Experimental library",
+  "network": "Network-independent",
+  "topics": ["privacy-pump", "typescript", "rust", "solana", "sdk"],
+  "visibility": "public-after-verification"
+}
